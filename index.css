@@ -1,0 +1,30 @@
+h2 {
+  font-size: 50px;
+  text-align: center;
+}
+h3 {
+  font-size: 45px;
+  text-align: center;
+}
+#all-btn {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+
+}
+#plus{
+    padding: 15px;
+    background-color: blueviolet;
+    color:white;
+    border: none;
+    font-size: 30px;
+    border-radius: 10px;
+}
+#minus-btn{
+    padding: 17px;
+    background-color: rgb(46, 88, 65);
+    color:white;
+    border: none;
+    font-size: 30px;
+    border-radius: 10px;
+}
